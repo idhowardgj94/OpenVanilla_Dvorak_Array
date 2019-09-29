@@ -15,7 +15,7 @@
 
 ## 環境 ##
 本專案測試時的香草輸入法採當時的最新版。（1.4.0）
-python 使用 3.7.4 版。
+python 使用 3.7.4版。
 程式只是簡單的轉碼程式，照理說應該不會有問題。
 
 ## 使用說明 ##
@@ -23,7 +23,7 @@ python 使用 3.7.4 版。
 
 ```bash
 cd ~
-git clone
+git clone https://github.com/idhowardgj94/OpenVanilla_Dvorak_Array
 ```
 
 首先先將行列的英文鍵位從qwerty轉為dvorak鍵位：
